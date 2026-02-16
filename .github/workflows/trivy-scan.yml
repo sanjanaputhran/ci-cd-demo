@@ -1,5 +1,4 @@
 name: Trivy Pentest Scan
-
 on:
   push:
     branches: [ main ]
