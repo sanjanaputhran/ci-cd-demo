@@ -1,0 +1,5 @@
+[Build #1234]
+api_key=sk:live_abc1234567890uiootghj
+AWS_SECRET_ACCESS_KEY=sdjhshdfuiJ/KLhsdJKD/BbdshdifoodhiKEY
+Database password: MySecretPassoword123!
+Build completed.
